@@ -12,9 +12,8 @@ Usta Bot - bu Telegram bot bo‘lib, mijozlarga o‘z hududidagi ustalarni topis
 
 ## Texnologiyalar
 - **Node.js** – botning backend qismi
-- **Telegram Bot API** – bot bilan ishlash
-- **MongoDB / PostgreSQL** – ma’lumotlarni saqlash
-- **Redis** – kesh uchun (agar ishlatilgan bo‘lsa)
+- **Telegraf** – bot bilan ishlash
+- **PostgreSQL** – ma’lumotlarni saqlash
 
 ## O‘rnatish va ishlatish
 
@@ -42,6 +41,6 @@ Usta Bot - bu Telegram bot bo‘lib, mijozlarga o‘z hududidagi ustalarni topis
 
 ## Muallif
 **Rustam Bozorov**
-- [Telegram](https://t.me/_Rustam_Uktamovich)
-- [GitHub](https://github.com/username)
+- [Telegram](https://t.me/Rustam_Uktamovich)
+- [GitHub](https://github.com/RustamDevel0per)
 
